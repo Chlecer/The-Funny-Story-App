@@ -38,6 +38,29 @@ The app features a mascot named GuiGuiB. GuiGuiB is a friendly and relatable cha
 * Test the app's functionality.
 * Deploy the app to the app store.
 
+## Timeline
+
+* Wireframes or mockups: By the end of the week
+* Code: By the end of the month
+* Testing: By the end of the quarter
+* Deployment: By the end of the year
+
+## Resources
+
+* Software: GitHub, IntelliJ
+* Hardware: Laptop, Desktop, Tablet
+* People: Developer, Designer, Tester
+
+## Project plan
+
+* Scope: The app will provide funny stories for kids.
+* Timeline:
+    * Wireframes or mockups: By the end of the week
+    * Code: By the end of the month
+    * Testing: By the end of the quarter
+    * Deployment: By the end of the year
+* Budget: \$0
+
 ## Contact
 
 If you have any questions or feedback, please contact me here!
