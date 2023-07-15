@@ -16,7 +16,9 @@ Users should be able to access the app's features and personalized content by lo
 
 ## Non-Functional Requirements
 1. **Security:** User account information and authentication credentials should be securely stored and transmitted to prevent unauthorized access.
-2. **User-Friendly Interface:** The login and registration process should have an intuitive and user-friendly interface, guiding users through the necessary steps with clear instructions and feedback.
+2. **Usability:** The login process should have an intuitive and user-friendly interface, providing clear instructions and feedback to the users.
+3. **Performance:** The login process should have minimal response time to ensure a seamless user experience.
+4. **Availability:** The login functionality should be available and accessible to users at all times, with a minimum amount of downtime for maintenance or upgrades.
 
 ## Constraints
 1. **Social Media Integration:** The app should integrate with the chosen social media platforms (e.g., Facebook, Google, Twitter) to facilitate seamless login and registration.
