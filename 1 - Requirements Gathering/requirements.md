@@ -3,6 +3,7 @@
 ## Requirements
 
 * Login and registration: Users should be able to login to the app using their existing social media accounts, or they can create a new account.
+[Possible solutions](../2%20-%20Requirements%20Solutions/login-registration.md)
 * Profile: Users should be able to create a profile that includes their name, age, and interests. This information will be used to make recommendations of possible stories.
 * Story recommendations: The app should recommend stories to users based on their age and interests.
 * Story content: The app should provide a variety of story content, including text, images, and animations.

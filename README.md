@@ -16,7 +16,7 @@ This README file provides an overview of the project and its key components.
 The app features a mascot named GuiGuiB. GuiGuiB is a friendly and relatable character who will help kids to learn and grow. The app is also a great way for kids to connect with other kids who share their interests.
 
 ## Requirements
-For detailed information on the project requirements, please refer to the [Requirements](1 - Requirements Gathering/requirements.md) document.
+For detailed information on the project requirements, please refer to the [Requirements](1%20-%20Requirements%20Gathering/requirements.md) document.
 
 ## Mascot
 * Appearance: GuiGuiB is a happy boy with short brown hair and blue eyes. He wears a blue and white superhero costume with a lightning bolt symbol on the chest. He also wears a pair of goggles and a utility belt with gadgets. He has a backpack on his back with a computer and other tech inside.
